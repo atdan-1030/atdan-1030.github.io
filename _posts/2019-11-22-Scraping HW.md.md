@@ -22,6 +22,11 @@ this downloaded a really messy html file into my folder
 find: ^text
 replace: http://www.perseus.tufts.edu/hopper/**dl**text
 
-the dl was important - it was the html-version of the texts
+the dl was important - it led to the html-code of the texts which I was able to download
+
+## downloading the links as txt-files in a newly created directory
+
+i did this by using
+wget -i regextext.txt -P .Savepoint -nc 
 
 ### thats it - the summary makes it look easier then it was for i missed the classed two weeks ago
