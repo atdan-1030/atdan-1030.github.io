@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scraping HW
-image: /img/hello_world.jpeg
+image: /img/Python34/png
 ---
 
 ## used wget to download html from http://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:RichTimes
