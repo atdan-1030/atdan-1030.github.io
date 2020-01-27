@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Jupiter Notebook
 ---
 In my effort to run the code via Jupiter Notebook, no error messages occured. However, the code seemed to have no effect and I couldn't find out where to change the code so that it actually did something (adding the right files somewhere?). 
 
@@ -34,5 +34,9 @@ dispatch = dispatch[["id", "month", "date", "type", "header", "text"]]
 print(dispatch["text"][1])
 
 # (Daniel) changing text with date, header or type for example displays the selected type or the issue(?) in [].
+
+I also hereby confirm the absolvement of the python course on codecademy.com
+Here's the pictures: 
+
 
 
