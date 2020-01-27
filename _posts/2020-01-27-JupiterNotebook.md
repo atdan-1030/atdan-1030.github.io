@@ -36,7 +36,14 @@ print(dispatch["text"][1])
 # (Daniel) changing text with date, header or type for example displays the selected type or the issue(?) in [].
 
 I also hereby confirm the absolvement of the python course on codecademy.com
-Here's the pictures: 
+Here's the pictures: [picture1], [picture2], [picture3], [picture4], [picture5], [picture6]
+
+[picture1]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(29).png
+[picture2]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(30).png
+[picture3]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(31).png
+[picture4]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(32).png
+[picture5]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(33).png
+[picture6]: https://raw.githubusercontent.com/atdan-1030/atdan-1030.github.io/master/img/Screenshot%20(34).png
 
 
 
