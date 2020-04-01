@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Die Suspension der Öffentlichkeit
+subtitle: von Daniel Pilz
 ---
 
 Die Suspension der Öffentlichkeit
