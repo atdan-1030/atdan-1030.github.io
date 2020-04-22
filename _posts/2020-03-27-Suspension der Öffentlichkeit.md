@@ -5,6 +5,7 @@ subtitle: von Daniel Pilz
 ---
 
 <b>Die Suspension der Öffentlichkeit</b>
+[Veröffentlicht bei Kontrast.at]
 
 Berichterstattung und soziale Netzwerke werden seit Wochen von ein und demselben Thema dominiert; dem Corona-Virus. Erst kürzlich ließ etwa Bundeskanzler Sebastian Kurz verlautbaren, dass „erst wenn es eine Impfung oder ein gutes Medikament gibt“, die „Normalität wieder so sein“ wird „wie wir das aus der Zeit vor der Krise kennen.“  Wo die physische Gesundheit einiger auf dem Spiel steht, müsse alles getan werden, um den unsichtbaren Feind namens CoViD-19 zu besiegen. Diese Prämisse offenbart sich auch in den Kommentaren diverser Facebook-Nutzerinnen und Nutzer. T.S. Grall schreibt: „Quarantäne was ist da so schlimm? Es geht um unser aller Gesundheit! Eigentlich müsste die Regierung noch mehr durchgreifen und drastischere Maßnahmen machen! Komplette Ausgangssperre!“ Wer nach der Angemessenheit der Freiheitsbeschränkungen oder der Zeit nach der Krise fragt, muss damit rechnen als ignorant, unsolidarisch oder dumm bezeichnet zu werden. Schließlich, so liest man vielerorts, befänden wir uns in der größten Krise seit dem zweiten Weltkrieg. Nur kollektive Anstrengung könne den unsichtbaren Feind besiegen. Für die Apologeten des Untergangs werden allzu eifrige Spaziergängerinnen oder Parkbank-Sitzer zur Dolchstoßlegende hochstilisiert. Dass der moralische Fingerzeig à la „#StayTheFuckHome“ aus dem Pool im Garten leichter fällt als aus der Gemeindebauwohnung, ist klar. Dass man die drängenden Lebensumstände anderer, vielleicht von Gewalt Betroffener, mitbedenken sollte, bevor man sie an den Pranger stellt, schon weniger. 
 
@@ -14,6 +15,7 @@ Wie es um eine Demokratie bestellt ist, in der Freiheitsbeschränkungen weitgehe
 
 Genauso kann man Arendts Mahnungen deplatziert finden. Man sollte dabei aber nicht vergessen, dass sie eine der schärfsten Verfechterinnen der pluralistischen Demokratie war. Und dass eine solche nur lebendig bleibt, wenn unterschiedliche Fragestellungen ernsthaft diskutiert werden. Denn: „Wo alle das Gleiche tun, handelt niemand mehr in Freiheit, auch wenn keiner direkt gezwungen wird.“ Ähnliches gilt jetzt insbesondere für das Denken und die öffentliche Artikulation. Das Narrativ der kollektiven Krisenbewältigung zur Rechtfertigung freiheitsberaubender Maßnahmen hat seine strategische Daseinsberechtigung. Es sollte aber nicht dazu missbraucht werden, unliebsame Fragen beiseite zu schieben und die Öffentlichkeit zu suspendieren. Denn es geht nicht nur darum, ob wir leben, sondern auch wie. Eine funktionierende Demokratie muss Debatten führen können, auch wenn sie uns vor moralische Dilemmata stellen. Bundeskanzler Kurz deutet das bereits an: „Am Ende des Tages wird vieles eine Abwägungsfrage sein, für den Staat als Ganzes, für die Gesellschaft, aber auch für Einzelne.“
  
+ [Veröffentlicht bei Kontrast.at]: https://kontrast.at/die-suspension-der-oeffentlichkeit-eine-philosophische-betrachtung-der-coronakrise/
 
 
 
