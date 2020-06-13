@@ -6,7 +6,7 @@ subtitle: von Daniel Pilz
 
 
 <b>Die neue Liebe zur Wissenschaft?</b>
-[Veröffentlicht vom Standard]:
+[Veröffentlicht vom Standard]
 
 Die Wissenschaft ist so wichtig wie nie. Nicht nur kann man täglich Einschätzungen von Berufsgruppen lesen, deren Relevanz einem bisher nicht unbedingt bewusst war. Plötzlich scheint die Politik der Expertise von Virologen und Co. gegenüber durchaus aufgeschlossen zu sein. Selten waren Wissenschaftlerinnen so gefragt wie in der Corona-Krise. Zunächst erscheint das auch plausibel, weil wir wissen wollen, wie sich das Corona-Virus verbreitet und was wir dagegen tun können. Die dafür notwendigen Modelle stellen unterschiedliche Wissenschaften bereit. Sieht man allerdings genauer hin, erweist sich die Zusammenarbeit zwischen Regierung und Wissenschaft als erstaunlich. Nicht, weil es sinnlos wäre, Szenarien zur Ausbreitung und Eindämmung des Virus zu erstellen. Auch die zum Teil unterschiedlichen Ergebnisse der Wissenschaftler sind kein Argument dafür, an der Wissenschaft insgesamt zu zweifeln. Sie bringen aber zum Ausdruck, dass Erkenntnis immer auch auf Vorannahmen und Interpretation beruht. 
 
